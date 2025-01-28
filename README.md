@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/ec53ff6d-1ea4-4db1-84a4-fc399e599e3c)
 
 
-##In PYTHON code file
+## In PYTHON code file
 - I used Python's tkinter built-in library for the making of GUI. 
 - First I defined the questions for quiz, so the user can generate them. I followed the example for questions.
 - For class definition creates a graphical user interface (GUI) for a Python quiz application. 
